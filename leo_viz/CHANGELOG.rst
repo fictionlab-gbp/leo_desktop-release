@@ -2,6 +2,10 @@
 Changelog for package leo_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.2 (2020-10-16)
+------------------
+* Update cmake minimum version, change CMakeLists formatting
+
 0.2.1 (2020-10-06)
 ------------------
 * Changed the release repository for the package
