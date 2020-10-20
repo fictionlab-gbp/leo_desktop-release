@@ -1,0 +1,12 @@
+Source: ros-kinetic-leo-viz
+Section: misc
+Priority: optional
+Maintainer: Błażej Sowa <blazej@turtlerover.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://wiki.ros.org/leo_viz
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-leo-viz
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-joint-state-publisher, ros-kinetic-joint-state-publisher-gui, ros-kinetic-leo-description, ros-kinetic-robot-state-publisher, ros-kinetic-rviz
+Description: Visualization launch files and RViz configurations for Leo Rover
