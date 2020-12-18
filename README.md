@@ -1,3 +1,28 @@
+## leo_desktop (melodic) - 0.2.3-1
+
+The packages in the `leo_desktop` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic leo_desktop` on `Fri, 18 Dec 2020 15:12:34 -0000`
+
+These packages were released:
+- `leo_desktop`
+- `leo_viz`
+
+Version of package(s) in repository `leo_desktop`:
+
+- upstream repository: https://github.com/LeoRover/leo_desktop.git
+- release repository: https://github.com/fictionlab-gbp/leo_desktop-release.git
+- rosdistro version: `0.2.2-1`
+- old version: `0.2.2-1`
+- new version: `0.2.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## leo_desktop (kinetic) - 0.2.2-2
 
 The packages in the `leo_desktop` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic leo_desktop` on `Tue, 20 Oct 2020 22:08:14 -0000`
