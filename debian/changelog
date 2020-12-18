@@ -1,0 +1,34 @@
+ros-noetic-leo-viz (0.2.3-1buster) buster; urgency=high
+
+  * Use relative topic names in RViz displays
+  * Change fixed frame to base_footprint in the default RViz config
+
+ -- Błażej Sowa <blazej@turtlerover.com>  Fri, 18 Dec 2020 00:00:00 -0000
+
+ros-noetic-leo-viz (0.2.2-1buster) buster; urgency=high
+
+  * Update cmake minimum version, change CMakeLists formatting
+
+ -- Błażej Sowa <blazej@turtlerover.com>  Fri, 16 Oct 2020 00:00:00 -0000
+
+ros-noetic-leo-viz (0.2.1-1buster) buster; urgency=high
+
+  * Changed the release repository for the package
+
+ -- Błażej Sowa <blazej@turtlerover.com>  Tue, 06 Oct 2020 00:00:00 -0000
+
+ros-noetic-leo-viz (0.2.0-1buster) buster; urgency=high
+
+  * Added Rviz configurations for odometry, slam and navigation
+  * Added Image panel to default config, changed default config name from model to robot
+
+ -- Błażej Sowa <blazej@turtlerover.com>  Fri, 19 Jun 2020 00:00:00 -0000
+
+ros-noetic-leo-viz (0.1.1-1buster) buster; urgency=high
+
+  * Don't run joint_state_publisher together with joint_state_publisher_gui
+  * initial commit
+
+ -- Błażej Sowa <blazej@turtlerover.com>  Sun, 07 Jun 2020 00:00:00 -0000
+
+
