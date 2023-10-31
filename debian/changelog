@@ -1,0 +1,26 @@
+ros-noetic-leo-desktop (0.3.0-1focal) focal; urgency=high
+
+  * Update author and maintainer info
+  * Contributors: Błażej Sowa
+
+ -- Fictionlab <support@fictionlab.pl>  Tue, 31 Oct 2023 00:00:00 -0000
+
+ros-noetic-leo-desktop (0.2.3-1focal) focal; urgency=high
+
+
+
+ -- Błażej Sowa <blazej@turtlerover.com>  Fri, 18 Dec 2020 00:00:00 -0000
+
+ros-noetic-leo-desktop (0.2.2-1focal) focal; urgency=high
+
+  * Add leo metapackage to dependencies
+
+ -- Błażej Sowa <blazej@turtlerover.com>  Fri, 16 Oct 2020 00:00:00 -0000
+
+ros-noetic-leo-desktop (0.2.1-1focal) focal; urgency=high
+
+  * Initial release
+
+ -- Błażej Sowa <blazej@turtlerover.com>  Tue, 06 Oct 2020 00:00:00 -0000
+
+
