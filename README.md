@@ -1,3 +1,28 @@
+## leo_desktop (noetic) - 0.3.0-1
+
+The packages in the `leo_desktop` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic leo_desktop` on `Tue, 31 Oct 2023 10:48:15 -0000`
+
+These packages were released:
+- `leo_desktop`
+- `leo_viz`
+
+Version of package(s) in repository `leo_desktop`:
+
+- upstream repository: https://github.com/LeoRover/leo_desktop.git
+- release repository: https://github.com/fictionlab-gbp/leo_desktop-release.git
+- rosdistro version: `0.2.3-1`
+- old version: `0.2.3-1`
+- new version: `0.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## leo_desktop (noetic) - 0.2.3-1
 
 The packages in the `leo_desktop` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic leo_desktop` on `Fri, 18 Dec 2020 15:15:38 -0000`
