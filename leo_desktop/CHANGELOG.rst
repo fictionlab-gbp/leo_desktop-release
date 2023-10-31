@@ -2,6 +2,11 @@
 Changelog for package leo_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.0 (2023-10-31)
+------------------
+* Update author and maintainer info
+* Contributors: Błażej Sowa
+
 0.2.3 (2020-12-18)
 ------------------
 
